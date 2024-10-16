@@ -5,6 +5,17 @@ body {
   padding: 0;
 }
 
+header {
+  background-color: #263248;
+}
+header h1 {
+  margin: 0;
+}
+header h1 a {
+  color: #fff;
+  text-decoration: none;
+}
+
 nav ul {
   list-style: none;
   padding-left: 0;
@@ -35,17 +46,6 @@ main, footer {
 
 #logo{
     text-align: center;
-}
-
-header {
-  background-color: #263248;
-}
-header h1 {
-  margin: 0;
-}
-header h1 a {
-  color: #fff;
-  text-decoration: none;
 }
 
 .resize-img{
