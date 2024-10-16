@@ -1,4 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
+
+@media (min-width: 720px) {
+   .container {
+        margin: auto;
+        max-width: 1200px;
+        min-width: 600px;
+    }
+}
+
 h1,
 h2 {
   font-family: "Raleway", sans-serif;
